@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Created-By: Software Engineering project
-Main-Class: application.Application
+Created-By: Software Engineering projectMain-Class: application.Applicat
+ ion
 Class-Path: resources 
 
