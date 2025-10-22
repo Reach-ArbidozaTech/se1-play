@@ -1,0 +1,3 @@
+-cp "target/classes;target/resources;libs/jackson/jackson-annotations-2.19.0.jar;libs/jackson/jackson-core-2.19.0.jar;libs/jackson/jackson-databind-2.19.0.jar;libs/junit/junit-jupiter-api-5.12.2.jar;libs/logging/log4j-api-2.24.3.jar;libs/logging/log4j-core-2.24.3.jar;libs/logging/log4j-slf4j2-impl-2.24.3.jar;libs/logging/slf4j-api-2.0.17.jar;libs/lombok/lombok-1.18.38.jar"
+ -p "target/classes;libs/jackson;libs/junit;libs/logging;libs/lombok"
+ -m se1.play/application.Application
