@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-Created-By: Software Engineering projectMain-Class: application.Applicat
- ion
-Class-Path: resources 
-

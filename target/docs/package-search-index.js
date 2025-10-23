@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"Alle Packages","u":"allpackages-index.html","k":"18"},{"m":"se1.play","l":"application"}];updateSearchResults();
