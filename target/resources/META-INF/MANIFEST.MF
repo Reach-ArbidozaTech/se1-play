@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Created-By: Software Engineering Project
-Main-Class: application.Application
-Class-Path: resources
