@@ -31,15 +31,6 @@ public class Application_0_always_pass_Tests {
     }
 
     /**
-     * Method is executed after each @Test method
-     * @throws Exception if any exception occurs
-     */
-    @AfterEach
-    public void tearDownAfterEach() throws Exception {
-        System.out.println("tearDownAfterEach() runs after each @Test method");
-    }
-
-    /**
      * First @Test method (always passes).
      */
     @Test
@@ -59,6 +50,15 @@ public class Application_0_always_pass_Tests {
         int expected = 10;
         int actual = 10;
         assertEquals(expected, actual);
+    }
+
+    /**
+     * Method is executed after each @Test method
+     * @throws Exception if any exception occurs
+     */
+    @AfterEach
+    public void tearDownAfterEach() throws Exception {
+        System.out.println("tearDownAfterEach() runs after each @Test method");
     }
 
     /**
